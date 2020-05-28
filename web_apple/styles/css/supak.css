@@ -1,0 +1,62 @@
+.container-fluid{
+	padding: 0px;
+}
+.container-fluid .navbar.navbar-default{
+	background: linear-gradient(to bottom right, #337ab7 0%, #66757f 100%);
+	border-radius: 0px;
+	min-height: 80px;
+	padding-left: 15px;
+	color: white;
+}
+.container-fluid .navbar.navbar-fixed-bottom{
+	background: linear-gradient(to top left, #337ab7 0%, #66757f 100%);
+	color: white;
+	height:50px;
+}
+.container-fluid .row{
+	margin: 0px;
+	padding-bottom: 53px;
+}
+.container-fluid .row .col-md-2 .panel.panel-primary{
+	padding: 0px;
+}
+.container-fluid .row .col-md-2 .panel.panel-primary .panel.panel-heading{
+	margin: 0px;
+}
+.container-fluid .row .col-md-2 .panel.panel-primary .panel.panel-body{
+	padding: 0px;
+	margin: 0px;
+	padding-bottom: 100%;
+}
+.container-fluid .row .col-md-10 .panel.panel-primary{
+	padding: 0px;
+}
+.container-fluid .row .col-md-10 .panel.panel-primary .panel.panel-heading{
+	margin: 0px;
+}
+.container-fluid .row .col-md-10 .panel.panel-primary .panel.panel-body{
+	padding: 10px 20px;
+	margin: 0px;
+}
+.nav.nav-stacked a:hover{
+	background-color: #66757f;
+	color: white;
+}
+.navbar.navbar-fixed-bottom{
+	background-color: #66757f;
+	color: white;
+	height: 20px;
+}
+.navbar.navbar-fixed-bottom h4{
+
+}
+thead{
+	background-color: #66757f;
+	color: white;
+}
+#open{
+	padding-bottom: 10px;
+}
+.coll {
+	margin-bottom: 10px;
+}
